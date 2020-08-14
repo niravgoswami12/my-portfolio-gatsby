@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://niravgoswami.netlify.app/sitemap.xml
+Host: https://niravgoswami.netlify.app

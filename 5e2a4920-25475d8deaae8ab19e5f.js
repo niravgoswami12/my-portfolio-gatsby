@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{Tgqd:function(n,t,o){"use strict";o.d(t,"a",(function(){return e}));var r=o("Lnxd"),e=function(n){return Object(r.a)({tag:"svg",attr:{viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:"2",strokeLinecap:"round",strokeLinejoin:"round"},child:[{tag:"path",attr:{d:"M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"}}]})(n)};e.displayName="FiMoon"}}]);
+//# sourceMappingURL=5e2a4920-25475d8deaae8ab19e5f.js.map
